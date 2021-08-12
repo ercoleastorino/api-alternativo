@@ -1,0 +1,26 @@
+[
+    {
+       "numero_pedido":1,
+       "cliente_id": 1,
+       "correo": "compra@gmail.com",
+       "telefono": "095-932452",
+       "direccion": "montevideo",
+       "fecha_envio":"13/8/2021"
+    },
+    {
+       "numero_pedido":2,
+       "cliente_id": 2,
+       "correo": "venta@gmail.com",
+       "telefono": "095-932442",
+       "direccion": "montevideo",
+       "fecha_envio":"17/8/2021" 
+    },
+    {
+        "numero_pedido":3,
+        "cliente_id": 3,
+        "correo": "mascota@gmail.com",
+        "telefono": "095-932452",
+        "direccion": "piriapolis",
+        "fecha_envio":"15/8/2021" 
+    }
+]

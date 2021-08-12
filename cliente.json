@@ -1,0 +1,27 @@
+[
+    {
+       "cliente_id": 1,
+       "nombre": "Jonathan",
+       "apellido": "Astorino",
+       "correo": "compra@gmail.com",
+       "telefono": "095-932452",
+       "direccion": "montevideo"
+    },
+    {
+        "cliente_id": 2,
+        "nombre": "charlotte",
+        "apellido": "Astorino",
+        "correo": "venta@gmail.com",
+        "telefono": "095-932442",
+        "direccion": "montevideo"
+     },
+     {
+        "cliente_id": 3,
+        "nombre": "Sam",
+        "apellido": "gonzalez",
+        "correo": "mascota@gmail.com",
+        "telefono": "095-932452",
+        "direccion": "piriapolis"
+     }
+
+]

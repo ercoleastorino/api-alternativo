@@ -1,0 +1,20 @@
+[
+    {
+        "producto_id":1248,
+        "precio":65.50,
+        "cantidad":3,
+        "categoria":"bazar"
+    },
+    {
+        "producto_id":9066,
+        "precio":25,
+        "cantidad":1,
+        "categoria":"bazar"
+    },
+    {
+        "producto_id":1355,
+        "precio":120,
+        "cantidad":2,
+        "categoria":"cristaleria"
+    }
+]

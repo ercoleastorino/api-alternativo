@@ -1,4 +1,4 @@
-const enlace = "https://ercoleastorino.github.io/api-alternativo/producto.json";
+const enlace = "https://ercoleastorino.github.io/api-alternativo/js/producto.json";
 
 function cargarlistado(url) {
     //document.getElementById("articulos").innerHTML = "";
@@ -15,7 +15,9 @@ function cargarlistado(url) {
                          <div class="contenido">
                          <p>Nombre: `+ listado[i].nombre +` </p>   
                          <p>Codigo: `+ listado[i].producto_id +  ` </p> 
-                         <p>Precio: `+ listado[i].moneda + " " + listado[i].cantidad + `</p>
+                         <p>Precio: `+ listado[i].moneda + " " + listado[i].precio +`</p>
+                         <p>Stock: `+ listado[i].cantidad +`</p>
+                         </div>
                         
                     `
 
